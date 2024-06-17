@@ -1085,5 +1085,10 @@
 	font-size:35px;
 	border: 1px solid;
 	padding: 5px;
+	font-family:Clarendon;
 }
-
+.bottom{
+	font-weight: bold;
+	color: white;
+	font-size:35px;
+}
